@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Tyler1 Mario Kart Meme.mp3-8981d760796eaaa368e1afe46795fe13.mp3str"
+
+[deps]
+
+source_file="res://Tyler1 Mario Kart Meme.mp3"
+dest_files=[ "res://.import/Tyler1 Mario Kart Meme.mp3-8981d760796eaaa368e1afe46795fe13.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

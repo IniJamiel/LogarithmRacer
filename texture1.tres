@@ -1,0 +1,5 @@
+[gd_resource type="StreamTexture" format=2]
+
+[resource]
+flags = 4
+load_path = "res://.import/Brick 3 - 128x128.png-4298b5ed02833cb78958661214784bf3.stex"
